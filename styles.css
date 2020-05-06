@@ -1,0 +1,152 @@
+body{
+margin: 0;
+text-align: center;
+background-color: #f0f5f9;
+font-family: 'Ubuntu', sans-serif;
+}
+
+h1{
+font-size: 4rem;
+margin: 50px auto 0 auto;
+font-family: 'Satisfy', cursive;
+}
+
+h2{
+font-family: 'Montserrat', sans-serif;
+font-size: 2.5rem;
+}
+
+h3{
+font-family: 'Montserrat', sans-serif;
+}
+
+hr{
+border-style: none;
+border-top-style: dotted;
+border-color: lightgrey;
+border-width: 5px;
+width: 5%;
+}
+
+.top-container{
+background-color: #c9d6df;
+position: relative;
+padding-top: 100px;
+}
+
+.middle-container{
+}
+
+.bottom-container{
+background-color: #c9d6df;
+padding-top: 70px;
+padding-bottom: 80px;
+}
+
+p{
+font-size: 22px;
+}
+
+.skill-row{
+width: 90%;
+margin: 100px auto 100px auto;
+text-align: left;
+line-height: 1.5;
+}
+
+.riwayat{
+width: 25%;
+float: left;
+margin-right: 30px;
+}
+
+.organisasi{
+width: 25%;
+float: right;
+margin-left: 30px;
+}
+
+.kompetensi{
+width: 25%;
+float: left;
+margin-right: 30px;
+}
+
+.profile{
+border-radius: 60%;
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 45%;
+}
+
+.profilekecil{
+border-radius: 60%;
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 8%;
+position: absolute;
+top: 30px;
+left: 70px;
+}
+
+.webkanan{
+display: inline-block;
+position: absolute;
+top: 70px;
+right: 425px;
+}
+
+.webkanan1{
+display: inline-block;
+position: absolute;
+top: 70px;
+right: 360px;
+}
+
+.webkanan2{
+display: inline-block;
+position: absolute;
+top: 70px;
+right: 265px;
+}
+
+.webkanan3{
+display: inline-block;
+position: absolute;
+top: 70px;
+right: 150px;
+}
+
+a{
+text-decoration: none;
+color: black;
+}
+
+.more{
+text-align: center;
+margin: 0 auto;
+font-size: 18px;
+}
+
+.webkanan4{
+text-decoration: none;
+display: inline-block;
+position: absolute;
+top: 70px;
+right: 70px;
+color: black;
+}
+
+.jeff{
+width: 40%;
+}
+
+#heading{
+font-size: 55px;
+}
+
+#heading2{
+font-size: 25px;
+}
